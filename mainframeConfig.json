@@ -1,16 +1,16 @@
 {
-  'version': 20.311.2,
+  'version': 20.311.3,
   'hand': {
     'right': {
-      'length': '7.491143cm',
-      'width': '1.102cm',
-      'blood_oxygen': 0.34154022,
-      'calcium_level': 1.1499,
+      'length': '7.591143cm',
+      'width': '1.122cm',
+      'blood_oxygen': 0.54154022,
+      'calcium_level': 1.1400,
       'bone_structure': 'ex-22r',
-      'avg_neuron_speed': 883482.114,
-      'force_level': 833,
-      'fingernail_length': '2.1198cm',
-      'tissue_size': 2.6513,
+      'avg_neuron_speed': 883412.114,
+      'force_level': 599,
+      'fingernail_length': '2.1118cm',
+      'tissue_size': 2.6322,
       'colour': 'ffe5b4',
       'vessel_width': 429.14
     },
@@ -29,11 +29,11 @@
     }
   },
   'brain_lobe_set': {
-    'frontal': 're7-991-ss',
+    'frontal': 're7-991-sb',
     'parietal': 'rt5-200-c4',
     'temporal': 'ovv9-11q-v',
     'occiptal': 'p119-ff-og5'
   },
-  'lastUpdated': '2019-09-17',
+  'lastUpdated': '2019-09-22',
   'public': true
 }
